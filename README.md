@@ -1,4 +1,4 @@
-# am-fake_plates
+# am-fakeplates
 
 A script to apply fake plates and custom fake plates to vehicles. Supports both ESX and Qbox out of the box, relying on `ox_lib`, `ox_inventory`, and `ox_target`.
 
