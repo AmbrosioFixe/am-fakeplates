@@ -1,0 +1,21 @@
+Locales['en'] = {
+    target_apply = 'Apply Fake Plate',
+    target_apply_custom = 'Apply Custom Plate',
+    target_remove = 'Remove Plate',
+    target_check_chassi = 'Inspect Chassis',
+    prog_apply = 'Applying plate...',
+    prog_remove = 'Removing plate...',
+    prog_check = 'Inspecting vehicle chassis...',
+    success_apply = 'Fake plate applied!',
+    success_remove = 'Plate removed!',
+    error_no_veh = 'No vehicle nearby.',
+    error_has_plate = 'This vehicle already has a fake plate.',
+    error_no_item = 'You do not have the required plate.',
+    error_sync = 'Sync error with the vehicle.',
+    error_cancel = 'Action canceled.',
+    dialog_title = 'Custom Plate',
+    dialog_label = 'Enter the plate (max 8 characters)',
+    chassi_fake = 'WARNING: Plate mismatch! The chassis indicates the real plate is: %s',
+    chassi_real = 'All OK: The plate (%s) matches the chassis.',
+    error_inv_full = 'You do not have enough inventory space!'
+}

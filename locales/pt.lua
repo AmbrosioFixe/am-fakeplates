@@ -1,0 +1,21 @@
+Locales['pt'] = {
+    target_apply = 'Colocar Matrícula Falsa',
+    target_apply_custom = 'Colocar Matrícula Personalizada',
+    target_remove = 'Remover Matrícula',
+    target_check_chassi = 'Inspecionar Chassi',
+    prog_apply = 'A colocar matrícula...',
+    prog_remove = 'A remover matrícula...',
+    prog_check = 'A inspecionar chassi do veículo...',
+    success_apply = 'Matrícula falsa colocada!',
+    success_remove = 'Matrícula removida!',
+    error_no_veh = 'Nenhum veículo por perto.',
+    error_has_plate = 'Este veículo já tem uma matrícula falsa.',
+    error_no_item = 'Não tens a matrícula necessária.',
+    error_sync = 'Erro de sincronização com o veículo (não tem rede).',
+    error_cancel = 'Ação cancelada.',
+    dialog_title = 'Matrícula Personalizada',
+    dialog_label = 'Escreve a matrícula (máx. 8 caracteres)',
+    chassi_fake = 'ALERTA: A matrícula não corresponde! O chassi indica que a matrícula verdadeira é: %s',
+    chassi_real = 'Tudo OK: A matrícula (%s) corresponde ao chassi.',
+    error_inv_full = 'Não tens espaço no inventário!'
+}
