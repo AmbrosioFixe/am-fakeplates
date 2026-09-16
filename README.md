@@ -14,7 +14,7 @@ A script to apply fake plates and custom fake plates to vehicles. Supports both 
 - `ox_lib`
 - `ox_inventory`
 - `ox_target`
-- `es_extended` (for ESX servers) or `qbx_core` (for Qbox servers)
+- `es_extended` or `qbx_core`
 
 ## Configuration
 Edit `config.lua` to change the items needed, action durations, translation strings, and jobs permitted to check the real chassis of the vehicle.
